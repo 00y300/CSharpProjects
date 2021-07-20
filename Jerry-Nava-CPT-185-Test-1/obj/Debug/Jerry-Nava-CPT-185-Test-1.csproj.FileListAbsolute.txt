@@ -1,0 +1,20 @@
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.exe.config
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.exe
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.pdb
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csprojAssemblyReference.cache
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry_Nava_CPT_185_Test_1.Form1.resources
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry_Nava_CPT_185_Test_1.Properties.Resources.resources
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csproj.GenerateResource.cache
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.exe
+C:\Users\Jerry\Desktop\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.pdb
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.exe.config
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.exe
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\bin\Debug\Jerry-Nava-CPT-185-Test-1.pdb
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csprojAssemblyReference.cache
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry_Nava_CPT_185_Test_1.Form1.resources
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry_Nava_CPT_185_Test_1.Properties.Resources.resources
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csproj.GenerateResource.cache
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.exe
+C:\Users\Jerry\OneDrive - SCC\CPT 185\Jerry-Nava-CPT-185-Test-1\obj\Debug\Jerry-Nava-CPT-185-Test-1.pdb
